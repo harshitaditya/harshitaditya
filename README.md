@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">I am student of btech 2nd year student</h3>
+<h3 align="center">I am student of btech 3rd year student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitaditya&label=Profile%20views&color=0e75b6&style=flat" alt="harshitaditya" /> </p>
 
