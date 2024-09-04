@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<img align="center" alt="codewallpaper" width="400" src="https://i.pinimg.com/564x/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.jpg">
+<img align="center" alt="codewallpaper" width="800" src="https://i.pinimg.com/564x/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.jpg">
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
