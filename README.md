@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java,C,CPP,HTML,CSS,JavaScript**
 
-- 📫 How to reach me **adityaak004@gmail.com**
+- 📫 How to reach me **connect.aditya002@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/Adiya%20Kumar/Downloads/Adityakumar_resume.pdf](file:///C:/Users/Adiya%20Kumar/Downloads/Adityakumar_resume.pdf)
 
